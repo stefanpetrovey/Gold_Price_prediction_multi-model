@@ -1,4 +1,5 @@
 # Gold Prices Prediction Model 🪙
+
 ## Project Overview:
 This repository contains a Gold Prices Prediction Model developed in Python using machine learning techniques. The project focuses on analyzing historical data and predicting gold prices using regression algorithms.
 
